@@ -1,0 +1,6 @@
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars\bin\Debug\Robot-Wars.exe.config
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars\bin\Debug\Robot-Wars.exe
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars\bin\Debug\Robot-Wars.pdb
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars\obj\Debug\Robot-Wars.csprojAssemblyReference.cache
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars\obj\Debug\Robot-Wars.exe
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars\obj\Debug\Robot-Wars.pdb

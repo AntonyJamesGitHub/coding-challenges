@@ -1,0 +1,16 @@
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Robot-Wars-Test-Unit.dll
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Robot-Wars-Test-Unit.pdb
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Robot-Wars.exe
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Robot-Wars.pdb
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Robot-Wars.exe.config
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\obj\Release\Robot-Wars-Test-Unit.csprojAssemblyReference.cache
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\obj\Release\Robot-Wars-Test-Unit.csproj.CopyComplete
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\obj\Release\Robot-Wars-Test-Unit.dll
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars-Test-Unit\obj\Release\Robot-Wars-Test-Unit.pdb

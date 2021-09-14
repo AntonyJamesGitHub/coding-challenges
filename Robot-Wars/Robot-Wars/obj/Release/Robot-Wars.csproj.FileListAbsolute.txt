@@ -1,0 +1,5 @@
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars\bin\Release\Robot-Wars.exe.config
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars\bin\Release\Robot-Wars.exe
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars\bin\Release\Robot-Wars.pdb
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars\obj\Release\Robot-Wars.exe
+C:\VisualStudioProjects\coding-challenges\Robot-Wars\Robot-Wars\obj\Release\Robot-Wars.pdb
